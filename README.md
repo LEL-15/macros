@@ -4,6 +4,8 @@ Foundry community-contributed macros are noted here and merged into the Foundry 
 
 > Macros may cause unintended side effects, such as issues with performance. Please read the comments in each macro to understand how it works before running!
 
+Some other macros can be found here: https://foundry-vtt-community.github.io/wiki/Macros/
+
 ## Installation
 
 ### Usage as a Module
